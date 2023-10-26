@@ -1,18 +1,11 @@
-## Getting Started
+## JAR tesztelése
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Unit tesztek során létrehozott JAR file tesztelése.
 
-## Folder Structure
+## App.java
 
-The workspace contains two folders by default, where:
+A JAR file teszteléséhez az App.java file-t használjuk, melybe már megírtuk a szükséges metódusokat.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Created by
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+&copy; 2023 | Hajdara Patrik <br> BZSH Külkereskedelmi Technikum <br> Minden jog fenntartva
